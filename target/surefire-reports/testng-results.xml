@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48" started-at="2020-03-27T01:49:51 CDT" finished-at="2020-03-27T01:49:51 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48" started-at="2020-03-27T01:49:51 CDT" finished-at="2020-03-27T01:49:51 CDT">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:qaclickacademy.AppiumTest@335eadca]" name="IOSApp" duration-ms="8" started-at="2020-03-27T01:49:51 CDT" finished-at="2020-03-27T01:49:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="NativeApp()[pri:0, instance:qaclickacademy.AppiumTest@335eadca]" name="NativeApp" duration-ms="4" started-at="2020-03-27T01:49:51 CDT" finished-at="2020-03-27T01:49:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApp -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="UIElements()[pri:0, instance:qaclickacademy.SeleniumTest@210366b4]" name="UIElements" duration-ms="0" started-at="2020-03-27T01:49:51 CDT" finished-at="2020-03-27T01:49:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIElements -->
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@210366b4]" name="BrowserAutomation" duration-ms="0" started-at="2020-03-27T01:49:51 CDT" finished-at="2020-03-27T01:49:51 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
